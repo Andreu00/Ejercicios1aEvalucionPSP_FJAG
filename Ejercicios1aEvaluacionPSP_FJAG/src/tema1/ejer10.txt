@@ -1,0 +1,12 @@
+Indica las que se pueden ejecutar concurrentemente y las que no:
+
+    CONCURRENTES:
+        Instrucción 1:      a:=x+y;
+        Instrucción 2:      b:=z-1;
+
+        Estas 2 son concurrentes porque no dependen una de la otra 
+    NO CONCURRENTES:
+        Instrucción 3:      c:=a-b;
+        Instrucción 4:      w:=c+1;
+
+        Estas no lo son, porque la instrución 4 depende del resultado de la anterior operacion

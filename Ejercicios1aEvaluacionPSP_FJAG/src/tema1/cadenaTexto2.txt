@@ -1,0 +1,5 @@
+reconocer
+perro
+hola
+coche
+*

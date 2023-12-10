@@ -1,0 +1,9 @@
+¿Cuáles de las siguientes afirmaciones son falsas?
+
+Verdadera    a) Un programa concurrente se suele concebir con un conjunto de procesos que colaboran en compiten entre sí
+Falsa        b) Las sentencias de un programa concurrente se ejecutan de acuerdo con un orden estricto
+Verdadera    c) Un programa paralelo es un tipo de programa concurrente diseñado para ejecutarse en un sistema 
+                multiprocesador
+Falsa        d) En los programas concurrentes no existen múltiples líneas de flujo
+Verdadera    e) En los programas concurrentes las sentencias que constituyen el programa no se ejecutan siguiendo 
+                una ordenación que corresponde a una secuencia temporal lineal
